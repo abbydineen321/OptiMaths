@@ -23,6 +23,7 @@ h1 {
 button {
   opacity: 0.8;
   border-radius: 4px;
-  border: 1px #FFFFFF;
-  color: #FFFFFF;
+  border-style: solid;
+  border: 1px white;
+  color: white;
 }
