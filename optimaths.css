@@ -19,3 +19,7 @@ p {
 h1 {
   text-align: center;
 }
+
+button {
+  opacity: 0.2;
+}
