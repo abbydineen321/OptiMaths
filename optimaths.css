@@ -54,4 +54,5 @@ button {
   border-style: solid;
   border: 1px white;
   color: white;
+  display: block;
 }
