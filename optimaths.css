@@ -44,12 +44,19 @@ h4 {
 h5 {
   text-align: center;
   font-family: sans-serif;
+  color: white;
 }
 
 h6 {
   text-align: center;
   font-family: sans-serif;
+  color: white;
 }
+
+ul {
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
 
 button {
   opacity: 1;
