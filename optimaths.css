@@ -66,4 +66,8 @@ button {
   border: 1px white;
   color: white;
   display: in-line block;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  display: grid;
 }
