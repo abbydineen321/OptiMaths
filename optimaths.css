@@ -63,8 +63,7 @@ ul {
 
 a {
   display: block;
-  border-radius: 8px;
-  border-style: solid;
+  border-radius: 6px;
 }
 
 button {
